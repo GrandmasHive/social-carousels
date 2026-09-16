@@ -1,0 +1,49 @@
+{
+  "_comment": "Carousel queue for the cloud carousel-publisher routine. status ready = to be hosted + posted; the routine flips it to posted after Buffer create_post succeeds and commits. wp_pub selects the WordPress media lane (creds from the routine env).",
+  "carousels": [
+    {
+      "slug": "95-5",
+      "brand": "b2bindemand",
+      "channel_id": "6aa04ce0cd8b9c702c2eabed",
+      "wp_pub": "b2bindemand",
+      "title": "The 95-5 Rule: 95% of your market can't buy today",
+      "pdf": "pdfs/95-5.pdf",
+      "thumb": "pdfs/95-5__thumb.png",
+      "status": "ready",
+      "caption": "95% of your market can't buy from you today.\n\nThat's not a bad quarter, it's the 95-5 rule. Research out of the Ehrenberg-Bass Institute for Marketing Science puts it plainly: at any given moment, only around 5% of B2B buyers in your category are actively in-market. The other 95% aren't ignoring your product. They're simply not buying anything, from anyone, right now.\n\nMost demand gen budgets don't reflect that. Almost everything is built for the 5%: book-a-demo CTAs, bottom-funnel offers, retargeting the same warm accounts on repeat. Meanwhile the 95% who will eventually buy get nothing, because nothing is being said to them yet.\n\nHere's the reframe: the 95% aren't lost pipeline. They're future pipeline. The job isn't to convert them this quarter, it's to be the name they remember when the need finally shows up. That's brand and category-memory work, and it compounds in a way a single demo CTA never will.\n\nThen, when the 5% do raise a hand, you still need the fast, obvious next step: a clear offer, a fast reply, no friction.\n\nMost teams run one play. The ones who win pipeline consistently run both: long-game category presence, and a sharp, immediate capture motion for the in-market few.\n\nWhich one is your budget actually built for right now?\n\nFollow for more demand-gen reframes, or book a call if you want help building both sides.\n\n#DemandGeneration #B2BMarketing"
+    },
+    {
+      "slug": "dark-funnel",
+      "brand": "b2bindemand",
+      "channel_id": "6aa04ce0cd8b9c702c2eabed",
+      "wp_pub": "b2bindemand",
+      "title": "The Dark Funnel, explained",
+      "pdf": "pdfs/dark-funnel.pdf",
+      "thumb": "pdfs/dark-funnel__thumb.png",
+      "status": "ready",
+      "caption": "Your best leads never touched your website first.\n\nHere's what that actually looks like: a buyer drops a question into their peer Slack, \"anyone used a tool like this?\" A few people name you. The buyer goes to your site directly, already halfway convinced. Your analytics logs the visit as \"direct traffic.\" What really happened was word of mouth, in a channel you can't see.\n\nMarketers have started calling this the dark funnel: the research, recommendations, and conversations that shape a buying decision before it ever produces a trackable session. No UTM, no referrer, no record.\n\nWhy it matters: by the time a lead fills out a form, the decision has often already been made somewhere off-platform. Your attribution model is measuring the moment after the moment that mattered.\n\nYou can't track dark social. But you can earn it. Two things actually work:\n\nBe the thing worth screenshotting: a sharp post, a genuinely useful tool, a founder point of view people want to forward to a colleague.\n\nShow up in the rooms you can't measure: the communities, newsletters, podcasts, and peer circles where your buyers already talk shop, long before they ever open a search bar.\n\nNone of this shows up cleanly in a dashboard. It shows up in pipeline you can't fully explain, from accounts that arrived already sold.\n\nWhere is your category actually talking about you right now, and do you know?\n\nFollow along as we build demand where the dark funnel lives, or book a call and we'll help you find out.\n\n#DemandGeneration #B2BMarketing"
+    },
+    {
+      "slug": "decoy-effect",
+      "brand": "grandmashive",
+      "channel_id": "6a8db18cccaf649a6713c7fb",
+      "wp_pub": "b2bindemand",
+      "title": "The Decoy Effect: how a worse option makes people spend more",
+      "pdf": "pdfs/decoy-effect.pdf",
+      "thumb": "pdfs/decoy-effect__thumb.png",
+      "status": "ready",
+      "caption": "Adding a deliberately worse option can make people spend more. Used honestly, it is one of the most useful ideas in pricing and proposals.\n\nIt is called the decoy effect. You do not change your two real options. You add a third that is clearly weaker, and suddenly one of the originals looks like the obvious choice.\n\nThe classic case is The Economist. Three plans: web only at $59, print only at $125, and print plus web also at $125. Print-only looks pointless, and that is exactly the point. It exists to make the $125 bundle feel like a steal. In Dan Ariely's test, that single decoy moved the bundle from 32% to 84% of buyers.\n\nWhy it works: people are bad at judging value on its own, so we judge by comparison. A decoy hands the brain an easy, flattering comparison, and it takes it.\n\nHow to use it without being manipulative: in your pricing or your next proposal, place a deliberately weaker tier next to the one you actually want chosen. Do not sell the decoy. Frame with it. Three options, and the one you are steering toward becomes the obvious pick.\n\nA worse option is not clutter. It is context. Give people something to compare against, and the choice you want makes itself.\n\nWhich of your offers could use a decoy next to it?"
+    },
+    {
+      "slug": "hr-manager-hiring",
+      "brand": "b2bindemand",
+      "channel_id": "6aa04ce0cd8b9c702c2eabed",
+      "wp_pub": "b2bindemand",
+      "title": "We're hiring: HR Manager / HR Generalist (Pune)",
+      "pdf": "pdfs/hr-manager-hiring.pdf",
+      "thumb": "pdfs/hr-manager-hiring__thumb.png",
+      "status": "ready",
+      "caption": "We're Hiring: HR Manager / HR Generalist\n\nWe are looking for an experienced HR professional with 3+ years of experience who can independently manage the complete employee lifecycle and take ownership of day-to-day HR operations.\n\nPosition: HR Manager / HR Generalist\nExperience: 3+ Years\nLocation: Pune\nEmployment: Full-time\nJoining: Immediate Joiners Preferred\n\nWhat you'll be responsible for:\n- End-to-end recruitment and talent acquisition\n- Candidate sourcing, screening, interviews and coordination\n- Employee onboarding and induction\n- HR operations, attendance and leave management\n- Employee engagement and employee relations\n- Performance management and HR coordination\n- Exit formalities, offboarding and full & final coordination\n- HR policies, processes and compliance\n- Employee queries and HR support\n- Managing the complete employee lifecycle from joining to exit\n\nWhat we're looking for:\n- 3+ years of experience in HR / HR Generalist / HR Manager role\n- Strong knowledge of recruitment and HR operations\n- Ability to independently manage end-to-end HR activities\n- Excellent communication and interpersonal skills\n- Hands-on experience in onboarding, employee engagement and exit processes\n- Immediate joiners are preferred\n\nInterested candidates can share their CV at: hr@b2bindemand.com"
+    }
+  ]
+}
