@@ -1,0 +1,23 @@
+{
+  "_comment": "Simplified Management posts use these dashboard-screenshot images (the established simman visual style), NOT the plain text card. The producer picks the one whose theme it did not use recently, hosts it via upload_media.py, and writes a fresh India-first caption on that theme. Add more entries here to widen the rotation.",
+  "dashboards": [
+    {
+      "slug": "payouts",
+      "img": "simman-dashboards/payouts.png",
+      "theme": "Co-owner payout split: earnings and expenses split per booking, a separate statement for every partner (gross, channel fees, housekeeping, GST, net, share).",
+      "angle": "Co-ownership transparency. The argument is never about the money, it's that nobody can see the split. Same numbers, every owner. No spreadsheet, no argument."
+    },
+    {
+      "slug": "calendar",
+      "img": "simman-dashboards/calendar.png",
+      "theme": "One calendar across 8 OTA channels: when two bookings land on the same night, the clash surfaces on the calendar before check-in, not at the door.",
+      "angle": "Booking-clash visibility across MakeMyTrip, Goibibo, Airbnb, Booking.com etc. The clash is a visibility failure, not a staffing one."
+    },
+    {
+      "slug": "owner",
+      "img": "simman-dashboards/owner.png",
+      "theme": "Owner feed: bookings, check-outs, GST invoices and the owner statement in one feed, so an owner knows what's happening on their property without calling anyone.",
+      "angle": "The passive owner who bought an investment, not a second job. No 11pm 'is the villa booked this weekend' call."
+    }
+  ]
+}
