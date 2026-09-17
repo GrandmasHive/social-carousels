@@ -1,23 +1,81 @@
 {
-  "_comment": "Simplified Management posts use these dashboard-screenshot images (the established simman visual style), NOT the plain text card. The producer picks the one whose theme it did not use recently, hosts it via upload_media.py, and writes a fresh India-first caption on that theme. Add more entries here to widen the rotation.",
+  "_comment": "Simplified Management posts use these dashboard-screenshot images (the established simman visual style). RULES for the producer: (1) NEVER repeat a hook, opening line, core storyline, or dashboard image used in this channel's last ~14 posts - check Buffer's recent posts first. (2) Every post carries THE SPINE: name a specific India-native operator pain precisely (they feel understood) -> show the platform quietly removes it (a guardrail-safe capability) -> land the payoff: they get to focus on what matters and run the business without drowning in admin. (3) Each image below has MANY angles - pick one not used recently, and you may write a fresh angle beyond the list as long as it fits the image and the spine. Rotate images so none repeats within 3 days on a channel. (4) Obey the simman claims guardrail exactly (no channel-manager, two-way sync, real-time, never-double-booked, pricing, occupancy/yield, AI, invented stats/testimonials; a clash is only SURFACED; 8 OTA channels is fine; figures are illustrative). Host the chosen image via upload_media.py OR use its raw GitHub URL, then attach it to the post.",
+  "rawBase": "https://raw.githubusercontent.com/GrandmasHive/social-carousels/main/simman-dashboards/",
+  "spine": "understand the specific pain -> we quietly remove it -> you focus on what matters and run the business with far less effort",
   "dashboards": [
     {
       "slug": "payouts",
       "img": "simman-dashboards/payouts.png",
-      "theme": "Co-owner payout split: earnings and expenses split per booking, a separate statement for every partner (gross, channel fees, housekeeping, GST, net, share).",
-      "angle": "Co-ownership transparency. The argument is never about the money, it's that nobody can see the split. Same numbers, every owner. No spreadsheet, no argument."
+      "theme": "Co-owner payout statement: earnings and expenses split per booking, a statement per partner (gross, channel fees, housekeeping, GST, net, share).",
+      "angles": [
+        "Co-ownership transparency: nobody can see the split, so every payout ends in a WhatsApp argument. Same numbers, every owner.",
+        "The year-end settle-up between partners that always turns tense because the expenses lived in one person's head.",
+        "Expense visibility: an owner who only ever sees gross revenue and wonders where the money went - now every deduction is itemised.",
+        "A new co-owner joining an existing property and needing to trust the numbers from day one."
+      ]
     },
     {
       "slug": "calendar",
       "img": "simman-dashboards/calendar.png",
-      "theme": "One calendar across 8 OTA channels: when two bookings land on the same night, the clash surfaces on the calendar before check-in, not at the door.",
-      "angle": "Booking-clash visibility across MakeMyTrip, Goibibo, Airbnb, Booking.com etc. The clash is a visibility failure, not a staffing one."
+      "theme": "One calendar across every listing and its channels; a same-night booking clash surfaces on the calendar before check-in.",
+      "angles": [
+        "The clash you find out about at the door - it was visible on the calendar hours earlier.",
+        "Six listings each on their own screen; one calendar means you stop tab-hopping to know what's booked.",
+        "A long-weekend rush where every property is selling fast and you need one place to see it all."
+      ]
     },
     {
       "slug": "owner",
       "img": "simman-dashboards/owner.png",
-      "theme": "Owner feed: bookings, check-outs, GST invoices and the owner statement in one feed, so an owner knows what's happening on their property without calling anyone.",
-      "angle": "The passive owner who bought an investment, not a second job. No 11pm 'is the villa booked this weekend' call."
+      "theme": "Owner feed: bookings, check-outs, GST invoices and the owner statement in one feed, so an owner knows what's happening without calling anyone.",
+      "angles": [
+        "The remote owner running a Coorg homestay from Bengaluru who only learns the numbers when they ask.",
+        "Trust in the manager: the feed means you don't have to choose between micromanaging and being in the dark.",
+        "The owner who wanted an asset, not an inbox - now the property reports to them, not the other way round."
+      ]
+    },
+    {
+      "slug": "gst-invoice",
+      "img": "simman-dashboards/gst-invoice.png",
+      "theme": "A GST invoice per booking and a filing-ready statement per property; tax-time and compliance without hunting for numbers.",
+      "angles": [
+        "The pre-20th scramble: hunting invoices across email and WhatsApp before the GST return is due.",
+        "The accountant who chases you every month for the same figures you can never find in time.",
+        "Month-end reconciliation across several properties collapsed into one clean statement.",
+        "The owner who dreads tax season because the paperwork lives everywhere - now it generates itself on check-out."
+      ]
+    },
+    {
+      "slug": "booking-feed",
+      "img": "simman-dashboards/booking-feed.png",
+      "theme": "One morning view of the whole day: check-ins, check-outs and the tasks they trigger, across every property.",
+      "angles": [
+        "The morning spent piecing the day together from six WhatsApp groups - now it's one screen you open with your chai.",
+        "Running the whole operation in twenty minutes a day instead of being on-call all of it.",
+        "The handover between shifts that used to lose a check-in; now the day is written down, not remembered.",
+        "Focus on the guest experience because the logistics are already laid out in front of you."
+      ]
+    },
+    {
+      "slug": "staff-tasks",
+      "img": "simman-dashboards/staff-tasks.png",
+      "theme": "Housekeeping and maintenance tasks assigned to a named person, with what's overdue in red; nothing lives in a WhatsApp group.",
+      "angles": [
+        "The task that fell through the cracks and cost you a one-star review about a dirty room.",
+        "The AC that broke and nobody owned the fix until an angry guest called.",
+        "Housekeeping by WhatsApp forward vs a task with a name, a time, and a red flag when it's late.",
+        "Scaling the team without scaling the chaos - every job visible, assigned and accounted for."
+      ]
+    },
+    {
+      "slug": "ota-calendar",
+      "img": "simman-dashboards/ota-calendar.png",
+      "theme": "One listing's bookings across all 8 OTA channels on one screen; same-night clashes surface here (aggregation + clash surfacing only, never sync/channel-manager).",
+      "angles": [
+        "Checking Airbnb, MakeMyTrip, Goibibo and five more separately for a single property - now it's one view.",
+        "The fragmentation of eight channel logins; see how every channel reads your listing in one place.",
+        "The same-night clash between two OTAs that surfaces on this screen before a guest is at the door."
+      ]
     }
   ]
 }
